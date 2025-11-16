@@ -1,1 +1,39 @@
-# About-Me
+### Hi there 👋
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zosick&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+- 🌱 My primary interest is building **clean, high-performance Python utilities**.
+- 💡 I'm passionate about improving the **user experience (UX)** of CLI tools using **Rich**.
+- 🤖 I also enjoy building **Discord bots** for community and automation.
+- 🤝 I'm open to collaborating on **data analysis, academic tooling, and data visualization**.
+
+### Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Textualize/rich/master/imgs/logo.svg" alt="Rich CLI" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord.py" width="40" height="40"/>
+</p>
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zosick&show_icons=true&locale=en&theme=dark&count_private=true&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zosick&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zosick&no-frame=true&no-bg=true&margin-w=15&theme=dracula" alt="GitHub Trophies" />
+  </a>
+</p>
