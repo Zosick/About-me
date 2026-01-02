@@ -12,7 +12,7 @@ I am a **Pragmatic Developer** who builds tools that work. I specialize in turni
 | :--- | :--- | :--- |
 | **[PDF-Retriever](https://github.com/Zosick/PDF-Retriever)** | **Desktop App** for automating academic paper downloads. Features a modern GUI, parallel downloading, and metadata fetching from **10+ sources** (Crossref, Unpaywall, etc.). | `Python` `CustomTkinter` `Requests` |
 | **[Certificate-Rename](https://github.com/Zosick/Certificate-Rename)** | **AI Automation** tool that uses **OCR** to read scanned certificates and automatically rename them based on the recipient's name ("Smart Detection"). | `PyTorch` `EasyOCR` `OpenCV` |
-| **[TRL-Calculator](https://github.com/Zosick/TRL-Calculator)** | **Analytics Tool** deployed in office environments to compute & visualize Technology Readiness Levels for research publications. | `Python` `Matplotlib` `Tkinter` |
+| **[TRL-Calculator](https://github.com/Zosick/TRL-Calculator)** | **Compliance Tool** that automates Technology Readiness Level assessment based on **DOST-PCHRD Form 14** standards. | `Python` `CustomTkinter` `Matplotlib` |
 | **[File-Integrity-Checker](https://github.com/Zosick/File-Integrity-Checker)** | **Security Utility** for verifying file authenticity. Supports multiple hash algorithms (MD5, SHA256) with both CLI and interactive modes. | `Python` `Hashlib` `CLI` |
 
 ### 🌱 Current Interests
